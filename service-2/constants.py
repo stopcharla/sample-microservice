@@ -1,0 +1,2 @@
+QToInferenceImages = "processQ"
+InferencedImagesQ = "processedQ"

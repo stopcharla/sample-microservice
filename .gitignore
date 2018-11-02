@@ -1,0 +1,15 @@
+*~
+*.DS_Store
+*.bak
+*.pyc
+*.pyce
+*.log
+*.db
+*.o
+*.o.d
+*.so
+*.swap
+*.mp4
+*.avi
+*.mkv
+data/
